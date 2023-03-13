@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family:'Open Sans', sans-serif;
+}
+header{
+    width: 100%;
+    height: 90px;
+    background-image: #0b132b;
+    
+}
+body{
+   background-color:  #C9C9C9;
+}
+.personalidad{
+    text-align: center;
+    padding: 7%;
+    background-color: #101828;
+    color: #fff;
+    font-size: 40px;
+}
+  #avatar{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    height: 100vh;
+    width: 450px;
+    height: 450px;
+  }
+  #person{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+  .parrafo{
+    width: auto;
+    height: 440px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  .parrafo img{
+    width: 310px;
+    height: 510px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+  }
+  #valor{
+    padding-left: 3%;
+  }
+  .desc{
+    text-align: center;
+  }
+  .descperson{
+    text-align: justify;
+  }
+  #val{
+    font-size: 18px;
+  }
+  .boton{
+    background-color: #101828;
+    border: none;
+    color: #fff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .misi{
+    padding-top: 15%;
+    width: auto;
+    height: 440px;
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  .misi img{
+    width: 310px;
+    height: 510px;
+    border-radius: 5px;
+    float: right;
+    margin-right: 15px;
+  }
+  .des{
+    text-align: left;
+  }
